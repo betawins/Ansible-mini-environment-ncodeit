@@ -1,0 +1,8 @@
+---
+# vars file for LAMP
+mysql_root_password: "Alina@0509"
+app_user: "root"
+http_host: "your_domain"
+http_conf: "your_domain.conf"
+http_port: "80"
+disable_default: true
