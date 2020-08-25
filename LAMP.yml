@@ -1,5 +1,0 @@
-- name: Playbook for Setting up LAMP environment
-  hosts: localhost
-  become: yes
-  roles:
-    - LAMP
