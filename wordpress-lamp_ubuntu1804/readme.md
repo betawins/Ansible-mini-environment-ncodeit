@@ -18,7 +18,7 @@ Quickstart guide for those already familiar with Ansible:
 
 ### 1. Obtain the playbook
 ```shell
-git clone https://github.com/do-community/ansible-playbooks.git
+git clone https://github.com/betawins/Ansible-mini-environment-ncodeit.git
 cd ansible-playbooks/wordpress-lamp_ubuntu1804
 ```
 
